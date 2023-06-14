@@ -23,4 +23,5 @@ npm install recoil
 
 ```
 npm install react-router-dom
+npm install react-query
 ```

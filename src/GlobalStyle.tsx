@@ -51,7 +51,10 @@ table {
   box-sizing: border-box;
 }
 body {
+  font-weight: 300;
   font-family: 'Merriweather Sans', sans-serif;
+  color:${(props) => props.theme.white.darker};
+  background-color: black;
   line-height: 1.2;
 }
 a {
